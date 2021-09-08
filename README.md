@@ -1,13 +1,13 @@
 ---
 tags:
-- corenlp
-library_tag: corenlp
+- stanza
+library_tag: stanza
 language:
 - en
 license: GNU
 ---
-# Core NLP model for en
-CoreNLP is your one stop shop for natural language processing in Java! CoreNLP enables users to derive linguistic annotations for text, including token and sentence boundaries, parts of speech, named entities, numeric and time values, dependency and constituency parses, coreference, sentiment, quote attributions, and relations.
-Find more about it in [our website](https://stanfordnlp.github.io/CoreNLP) and our [GitHub repository](https://github.com/stanfordnlp/CoreNLP).
+# Stanza model for en
+Stanza is a collection of accurate and efficient tools for the linguistic analysis of many human languages. Starting from raw text to syntactic analysis and entity recognition, Stanza brings state-of-the-art NLP models to languages of your choosing.
+Find more about it in [our website](https://stanfordnlp.github.io/stanza) and our [GitHub repository](https://github.com/stanfordnlp/stanza).
 
-Last updated 2021-09-07 08:42:02.193
+Last updated 2021-09-08 01:48:44.757
