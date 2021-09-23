@@ -4,7 +4,7 @@ tags:
 library_tag: stanza
 language:
 - en
-license: GNU
+license: gpl
 ---
 # Stanza model for en
 Stanza is a collection of accurate and efficient tools for the linguistic analysis of many human languages. Starting from raw text to syntactic analysis and entity recognition, Stanza brings state-of-the-art NLP models to languages of your choosing.
