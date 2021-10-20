@@ -1,6 +1,7 @@
 ---
 tags:
 - stanza
+- token-classification
 library_tag: stanza
 language:
 - en
