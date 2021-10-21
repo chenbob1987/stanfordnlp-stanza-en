@@ -2,7 +2,7 @@
 tags:
 - stanza
 - token-classification
-library_tag: stanza
+library_name: stanza
 language:
 - en
 license: apache-2.0
