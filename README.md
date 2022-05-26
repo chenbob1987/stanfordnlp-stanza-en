@@ -3,8 +3,7 @@ tags:
 - stanza
 - token-classification
 library_name: stanza
-language:
-- en
+language: en
 license: apache-2.0
 ---
 # Stanza model for English (en)
@@ -13,4 +12,4 @@ Find more about it in [our website](https://stanfordnlp.github.io/stanza) and ou
 
 This card and repo were automatically prepared with `hugging_stanza.py` in the `stanfordnlp/huggingface-models` repo
 
-Last updated 2022-04-23 02:52:46.656
+Last updated 2022-05-26 08:34:59.273
