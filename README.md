@@ -12,4 +12,4 @@ Find more about it in [our website](https://stanfordnlp.github.io/stanza) and ou
 
 This card and repo were automatically prepared with `hugging_stanza.py` in the `stanfordnlp/huggingface-models` repo
 
-Last updated 2022-05-28 07:39:17.392
+Last updated 2022-07-20 21:25:05.551
